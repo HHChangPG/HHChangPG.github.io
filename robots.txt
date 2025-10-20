@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hhchangpg.github.io/sitemap.xml
+Sitemap: https://hhchangpg.github.io/sitemap.txt
